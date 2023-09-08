@@ -30,7 +30,7 @@ class Type {
     slot: number = 0;
     type: {
         name: string;
-    } = { name: '' }; // Inicializa type con un objeto que tiene una propiedad name inicializada con una cadena vacía.
+    } = { name: '' }; 
 }
 
 
@@ -42,6 +42,6 @@ class Stat {
     base_stat: number = 0;
     stat: {
         name: string;
-    } = { name: '' }; // Inicializa stat con un objeto que tiene una propiedad name inicializada con una cadena vacía.
+    } = { name: '' }; 
 }
 
